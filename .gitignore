@@ -1,0 +1,11 @@
+# 가상 환경
+venv/
+pyvenv.cfg
+
+# 캐시 및 임시 파일
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 운영체제 관련 파일
+.DS_Store
